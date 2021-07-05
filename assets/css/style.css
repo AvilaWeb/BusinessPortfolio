@@ -464,7 +464,8 @@ p {
     .main-btn {
       font-size: 14px;
       padding: 0 20px;
-      line-height: 40px; } }
+      line-height: 40px;
+	      margin-left: 2.3em;} }
 
 /*===== standard Buttons =====*/
 .standard-buttons ul li {
