@@ -3301,3 +3301,13 @@ p.form-message.success, p.form-message.error {
         margin-left: .5em;
       }
     }
+  @media (max-width: 767px) {
+
+    .slider-content .text {
+    color: #fff;
+    font-size: 16px;
+    line-height: 24px;
+    margin-left: 2.3em;
+    margin-top: 16px; }
+  }
+
