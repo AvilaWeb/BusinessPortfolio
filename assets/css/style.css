@@ -3298,6 +3298,6 @@ p.form-message.success, p.form-message.error {
 
     @media (max-width: 767px) {
       .video{
-        margin-left: 1.3em;
+        margin-left: .5em;
       }
     }
