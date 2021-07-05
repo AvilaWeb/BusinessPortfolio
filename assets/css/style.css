@@ -3291,13 +3291,13 @@ p.form-message.success, p.form-message.error {
 
   @media (max-width: 767px) {
     .videox {
-      width: 420px;
-      height: 340px;
+      width: 320px;
+      height: 240px;
     }
   }
 
     @media (max-width: 767px) {
       .video{
-        margin-left: 2em;
+        margin-left: 1.3em;
       }
     }
