@@ -465,7 +465,7 @@ p {
       font-size: 14px;
       padding: 0 20px;
       line-height: 40px;
-	      margin-left: 2.3em;} }
+	     margin-left: 2.3em;} }
 
 /*===== standard Buttons =====*/
 .standard-buttons ul li {
@@ -3299,7 +3299,7 @@ p.form-message.success, p.form-message.error {
 
     @media (max-width: 767px) {
       .video{
-        margin-left: .5em;
+        margin-left: 1em;
       }
     }
   @media (max-width: 767px) {
